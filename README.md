@@ -1,12 +1,13 @@
 ### Hello, World! 
-Welcome to my GitHub profile. I have got some exciting things brewing over the next few weeks 
+Welcome to my GitHub profile. I have got some exciting projects brewing over the next few weeks so watch this space :woman_cook:
 
 ## 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pik-nik)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pik-nik/pik-nik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pik-nik)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
