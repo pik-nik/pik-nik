@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I have got some exciting projects brewing over the
 
 ## :smiley: About Me 
 I am a Sydney-based Software Developer in training transitioning from being an Optometrist :nerd_face:
-Why the change? I am always looking for new challenges and ways to grow :seedling: and I am excited by the embrace the new worlds of knowledge in the universe that is software engineering :milky_way:
+Why the change? I am always looking for new challenges and ways to grow :seedling: and I am excited to embrace the new worlds of knowledge in the universe that is software engineering :milky_way:
 
 * :pencil: Currently learning error handling :baseball: and promises :handshake:
 * :open_book: Currently reading "The Missing README"
