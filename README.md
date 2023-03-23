@@ -1,4 +1,4 @@
-![Cover photo of piknik GitHub](/header.png)
+![Cover photo of piknik GitHub](/Banner.png)
 
 
 # :wave: Hello, World! 
