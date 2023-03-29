@@ -2,7 +2,7 @@
 
 
 # :wave: Hello, World! 
-Welcome to my GitHub profile. I have got some exciting projects brewing over the next few weeks so watch this space :woman_cook:
+Welcome to my GitHub profile. I have got some exciting projects brewing over the next few weeks so watch this space :woman_cook: Currently I am building a sticky notes app as a single page application.
 
 ## :smiley: About Me 
 I am a Sydney-based Software Developer in training transitioning from being an Optometrist :nerd_face:
