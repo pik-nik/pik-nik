@@ -2,13 +2,13 @@
 
 
 # :wave: Hello, World! 
-Welcome to my GitHub profile. I have got some exciting projects brewing over the next few weeks so watch this space :woman_cook: Currently I am building a sticky notes app as a single page application.
+Welcome to my GitHub profile. I have got some exciting projects brewing over the next few weeks so watch this space :woman_cook: I've just completed a group project building a petrol station single page application using google maps API. 
 
 ## :smiley: About Me 
 I am a Sydney-based Software Developer in training transitioning from being an Optometrist :nerd_face:
 Why the change? I am always looking for new challenges and ways to grow :seedling: and I am excited to embrace the new worlds of knowledge in the universe that is software engineering :milky_way:
 
-* :pencil: Currently learning error handling :baseball: and promises :handshake:
+* :pencil: Currently learning all things React
 * :open_book: Currently reading "The Missing README"
 * :sunglasses: In my spare time, I'm making icecream :icecream:, building my newly established worm farm :worm: and lifting weights :weight_lifting_woman:
 
