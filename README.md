@@ -2,7 +2,7 @@
 
 
 # :wave: Hello, World! 
-Welcome to my GitHub profile. I have got some exciting projects brewing over the next few weeks so watch this space :woman_cook: I've just completed a group project building a petrol station single page application using google maps API. 
+Welcome to my GitHub profile. I have got some exciting projects brewing over the next few weeks so watch this space :woman_cook: My latest is a little burger making app made with React. [Check it out here](https://react-burgulator.herokuapp.com/)
 
 ## :smiley: About Me 
 I am a Sydney-based Software Developer in training transitioning from being an Optometrist :nerd_face:
