@@ -2,7 +2,7 @@
 
 
 # :wave: Hello, World! 
-Welcome to my GitHub profile. I have got some exciting projects brewing over the next few weeks so watch this space :woman_cook: My latest is a little burger making app made with React. [Check it out here](https://react-burgulator.herokuapp.com/)
+Welcome to my GitHub profile. I have got some exciting projects brewing over the next few weeks so watch this space :woman_cook: My latest is creating a full stack CRUD React meal planner app using a third party API to fetch recipes, react beautiful dnd for drag and drop and Firebase/Firestore. [Check it out here](planmyplate.netlify.app/)
 
 ## :smiley: About Me 
 I am a Sydney-based Software Developer in training transitioning from being an Optometrist :nerd_face:
