@@ -1,7 +1,7 @@
 ![Cover photo of piknik GitHub](/github_banner.png)
 
 # :wave: Hello, World! 
-Welcome to my GitHub profile- check out my repo! I'm so proud of the projects I've made over the last few months. My latest is creating a full stack CRUD React meal planner app using a third party API to fetch recipes, react beautiful dnd for drag and drop and Firebase/Firestore. [Check it out here](planmyplate.netlify.app/)
+Welcome to my GitHub profile- check out my repo! I'm so proud of the projects I've made over the last few months. My latest is creating a full stack CRUD React meal planner app using a third party API to fetch recipes, react beautiful dnd for drag and drop and Firebase/Firestore. [Check it out here](https://pik-nik-planmyplate.netlify.app/)
 
 ## :smiley: About Me 
 I am a Sydney-based Software Developer transitioning from being an Optometrist :nerd_face:
