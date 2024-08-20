@@ -1,19 +1,5 @@
 ![Cover photo of piknik GitHub](/github_banner.png)
 
-# :wave: Hello, World! 
-Welcome to my GitHub profile- check out my repo! I made these projects as part of my software engineering bootcamp including creating a full stack CRUD React meal planner app using a third party API to fetch recipes, react beautiful dnd for drag and drop and Firebase/Firestore. [Check it out here](https://pik-nik-planmyplate.netlify.app/)
-
-## :smiley: About Me 
-I am a Sydney-based Software Developer who transitioned from Optometry :nerd_face:
-Why the change? I am always looking for new challenges and ways to grow :seedling: and I am excited to embrace the never-ending world of knowledge in the universe that is software engineering. :milky_way:
-
-* :pencil2: Working at EntryLevel, an EdTech startup committed to making a significant impact on education and workforce industry with the mission of re-skilling one billion people by 2030. I've had the opportunity to independently build some cool features, ask me for a demo!
-* :mortar_board: I completed General Assembly's software engineering immersive course on May 3rd 2023.
-* :sunglasses: In my spare time, I'm lifting weights :weight_lifting_woman:, playing golf :golf, and trying to optimise my worm farm :worm:
-
-
-I would love to hear from you if you have any openings for projects and/or opportunities. :mailbox_with_mail: Check out my portfolio here and send me a message through LinkedIn or email :point_down:
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nikkipham/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
