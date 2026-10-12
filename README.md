@@ -1,4 +1,4 @@
-![Cover photo of piknik GitHub](/github_banner.png)
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nikkipham/">
